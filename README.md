@@ -15,7 +15,6 @@ My name is <b>Goutam Kumar Sah</b> and I'm a <b>Computer Science & Data Analytic
 <p align="left">
 ✨ Creating bugs since 2024<br>
 📚 I'm currently learning React.js, advanced SQL, and cloud data engineering<br>
-🎯 Goals: Land a remote internship / entry-level role as a Full-Stack or Data Analyst and build real-world scalable products<br>
 🎲 Fun fact: I enjoy debugging more than writing fresh code 😄
 </p>
 
