@@ -13,7 +13,7 @@
 - 🎓 **B.Sc. in Computer Science & Data Analytics** at **IIT Patna**  
 - 🐍 **Python Engineer & Data Engineering Enthusiast**
 - 🔍 Interested in **backend systems, data pipelines, and real-world problem solving**
-- 📚 Currently learning **React.js, Advanced SQL, and Cloud Data Engineering**
+ 
 - 🧠 Fun fact: I enjoy **debugging and understanding systems** more than writing fresh code 😄
 
 ---
