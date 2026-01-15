@@ -1,72 +1,95 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Goutam Kumar Sah</h1>
+<h3 align="center">Computer Science & Data Analytics Undergraduate @ IIT Patna</h3>
 
-###
-
-<p align="left">
-My name is <b>Goutam Kumar Sah</b> and I'm a <b>Computer Science & Data Analytics undergraduate</b>, from <b>IIT Patna, India 🇮🇳</b>.
+<p align="center">
+  🚀 Python • Data Engineering • Backend Development • Cloud <br/>
+  📍 India 🇮🇳
 </p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 👨‍💻 About Me
 
-###
+- 🎓 **B.Sc. in Computer Science & Data Analytics** at **IIT Patna**  
+- 🐍 **Python Engineer & Data Engineering Enthusiast**
+- 🔍 Interested in **backend systems, data pipelines, and real-world problem solving**
+- 📚 Currently learning **React.js, Advanced SQL, and Cloud Data Engineering**
+- 🧠 Fun fact: I enjoy **debugging and understanding systems** more than writing fresh code 😄
 
-<p align="left">
-✨ Creating bugs since 2024<br>
-📚 I'm currently learning React.js, advanced SQL, and cloud data engineering<br>
-🎲 Fun fact: I enjoy debugging more than writing fresh code 😄
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
 </p>
 
-###
+### 🌐 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+</p>
 
-<h2 align="left">I code with</h2>
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+</p>
 
-###
+### 📊 Data & ML
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+</p>
 
-<div align="left">
+### ☁️ Cloud & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+</p>
 
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo" />
-  <img width="12" />
+---
 
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
+## 🚀 Featured Projects
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-  <img width="12" />
+### 🔐 E-Commerce Security Prediction System
+- Python • Flask • Machine Learning • SQL  
+- Detects **weak passwords, spam emails, and credit card fraud**
+- Deployed as a real-time web application  
+🔗 https://e-commerce-security-prediction-wokf.onrender.com/
 
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
+### 🏦 Loan Approval Risk Analysis System
+- Rule-based + ML driven **loan eligibility system**
+- Implements credit checks, income-loan ratios, and risk logging  
+🔗 https://loan-approval-risk-analysis.onrender.com/
 
-  <!-- ML / Data -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn logo" />
-  <img width="12" />
+### 📈 Vendor Performance Analysis
+- Python • SQL • Pandas • EDA  
+- End-to-end data analytics project for business insights  
+🔗 https://github.com/GoutamIITP/Vendor-Performance-Data-Analytics-End-To-End-Project
 
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
+---
 
-  <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+ 
 
-</div>
+ 
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/GoutamIITP"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/goutam-kumar-sah-562873278/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:goutamsah126@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://zippy-sable-9deaa7.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=firefox"/></a>
+</p>
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
