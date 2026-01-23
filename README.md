@@ -51,26 +51,6 @@
 </p>
 
 
-## 🚀 Featured Projects
-
-### 🔐 E-Commerce Security Prediction System
-- Python • Flask • Machine Learning • SQL  
-- Detects **weak passwords, spam emails, and credit card fraud**
-- Deployed as a real-time web application  
-🔗 https://e-commerce-security-prediction-wokf.onrender.com/
-
-### 🏦 Loan Approval Risk Analysis System
-- Rule-based + ML driven **loan eligibility system**
-- Implements credit checks, income-loan ratios, and risk logging  
-🔗 https://loan-approval-risk-analysis.onrender.com/
-
-### 📈 Vendor Performance Analysis
-- Python • SQL • Pandas • EDA  
-- End-to-end data analytics project for business insights  
-🔗 https://github.com/GoutamIITP/Vendor-Performance-Data-Analytics-End-To-End-Project
-
----
-
  
 
  
